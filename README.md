@@ -1,6 +1,6 @@
 ### Hi there 👋, lucasskvn
 ####  Computer Science student
-![ Computer Science student]([https://pbs.twimg.com/media/GOv6oxDa8AAmbY8?format=jpg&name=large](https://github.com/lucasskvn/Lucasskvn/blob/main/StanTripleSxddd.jpg))
+![ Computer Science student](https://github.com/lucasskvn/Lucasskvn/blob/main/StanTripleSxddd.jpg)
 
 Hey i'm Lucas from Lyon in France, i study computer sciences at EPITECH LYON. I enjoy learning some languages and computers in general
 
