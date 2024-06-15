@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, lucasskvn
+####  Computer Science student
+![ Computer Science student](https://pbs.twimg.com/media/GOv6oxDa8AAmbY8?format=jpg&name=large)
 
-<!--
-**Lucasskvn/Lucasskvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey i'm Lucas from Lyon in France, i study computer sciences at EPITECH LYON. I enjoy learning some languages and computers in general
 
-Here are some ideas to get you started:
+Skills: C / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page... i guess 
+- ⚡ Fun fact: ilovesentenceswithoutspaces and there nothing on my twitter acc, i just repost idols 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/lucasskvn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NiceToMeeetChuu)  
