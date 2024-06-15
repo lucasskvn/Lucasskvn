@@ -12,4 +12,4 @@ Skills: C / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/lucasskvn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NiceToMeeetChuu)  
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/intl-fr/track/4ZUA6yMs1NQDpIxvk6f3qY?si=95e5e0d4c5604794))
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/track/4ZUA6yMs1NQDpIxvk6f3qY?si=95e5e0d4c5604794))
