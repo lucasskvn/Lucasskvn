@@ -78,8 +78,6 @@ Je suis **Lucas**, étudiant en **Informatique** à **EPITECH Lyon**. Passionné
 
 ## 🎵 Centres d'intérêt
 
-- 🎮 **Jeux vidéo** — League of Legends, Valorant
-- 🎵 **K-Pop** — TripleS, aespa, fromis_9
 - 💻 **Développement** — Systèmes, outils, automatisation
 - 🎧 **Musique** — Écoute et création de playlists
 
