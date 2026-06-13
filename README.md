@@ -76,13 +76,6 @@ Je suis **Lucas**, étudiant en **Informatique** à **EPITECH Lyon**. Passionné
 
 ---
 
-## 🎵 Centres d'intérêt
-
-- 💻 **Développement** — Systèmes, outils, automatisation
-- 🎧 **Musique** — Écoute et création de playlists
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -100,5 +93,5 @@ Je suis **Lucas**, étudiant en **Informatique** à **EPITECH Lyon**. Passionné
 ---
 
 <div align="center">
-  <sub>👋 Merci de visite mon profil !</sub>
+  <sub>👋 Merci de visiter mon profil !</sub>
 </div>
