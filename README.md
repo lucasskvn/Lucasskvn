@@ -5,7 +5,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/EPITECH-Lyon-blue?style=for-the-badge&logo=epitech&logoColor=white" alt="EPITECH">
   <img src="https://img.shields.io/badge/Computer-Science-green?style=for-the-badge" alt="Computer Science">
-  <img src="https://img.shields.io/badge/K--Pop-Fan-pink?style=for-the-badge" alt="K-Pop Fan">
 </div>
 
 <br>
