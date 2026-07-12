@@ -51,7 +51,6 @@ Je suis **Lucas**, étudiant en **Informatique** à **EPITECH Lyon**. Passionné
 | [Pomodocus](https://github.com/lucasskvn/Pomodocus) | App Pomodoro gamifiée | TypeScript |
 | [ZhouXinyu](https://github.com/lucasskvn/ZhouXinyu) | Bot Discord TCG | Python |
 | [VirtualAngel](https://github.com/lucasskvn/VirtualAngel) | Bot Discord IA | Python |
-| [jellystack](https://github.com/lucasskvn/jellystack) | Media server stack | Shell |
 | [NixOS-config](https://github.com/lucasskvn/NixOS-config) | Configuration NixOS | Nix |
 | [WebradioScript](https://github.com/lucasskvn/WebradioScript) | Script de webradio | Shell |
 | [my_scripts](https://github.com/lucasskvn/my_scripts) | Scripts du quotidien | Shell |
