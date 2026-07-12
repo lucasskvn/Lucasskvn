@@ -78,7 +78,11 @@ Je suis **Lucas**, étudiant en **Informatique** à **EPITECH Lyon**. Passionné
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasskvn&theme=radical" alt="GitHub Streak" width="400">
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lucasskvn&custom_title=lucasskvn's%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=lucasskvn&custom_title=lucasskvn's%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=synthwave)
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=lucasskvn&custom_title=lucasskvn's%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=synthwave">
+    <img src="https://github-stats-extended.vercel.app/api?username=lucasskvn&custom_title=lucasskvn's%20GitHub%20stats&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub Stats">
+  </a>
+</div>
 
 ---
 
