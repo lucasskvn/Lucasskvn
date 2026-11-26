@@ -43,8 +43,8 @@
     </g>
     <g class="reveal" style="--delay: 480ms">
       <text x="340" y="165" fill="#3fb950" font-size="13" font-weight="700" letter-spacing="1">DEVELOPMENT</text>
-      <text x="340" y="191" fill="#f0f6fc" font-size="24" font-weight="700">Rust · C</text>
-      <text x="340" y="211" fill="#a0a8b1" font-size="14">Systems programming and terminal audio tools</text>
+      <text x="340" y="191" fill="#f0f6fc" font-size="24" font-weight="700">Rust · C · Python</text>
+      <text x="340" y="211" fill="#a0a8b1" font-size="14">Systems programming and AI Experimentation</text>
     </g>
     <g class="reveal" style="--delay: 570ms">
       <text x="340" y="241" fill="#3fb950" font-size="13" font-weight="700" letter-spacing="1">AI &amp; AUTOMATION</text>
@@ -53,12 +53,12 @@
     </g>
     <g class="reveal" style="--delay: 660ms">
       <text x="340" y="317" fill="#3fb950" font-size="13" font-weight="700" letter-spacing="1">WORKSTATION</text>
-      <text x="340" y="343" fill="#f0f6fc" font-size="24" font-weight="700">NixOS · Neovim</text>
+      <text x="340" y="343" fill="#f0f6fc" font-size="24" font-weight="700">NixOS · Hermes · </text>
     </g>
     <g class="reveal" style="--delay: 750ms">
       <text x="340" y="374" fill="#3fb950" font-size="13" font-weight="700" letter-spacing="1">HOMELAB</text>
-      <text x="340" y="400" fill="#f0f6fc" font-size="24" font-weight="700">Proxmox · Docker · Tailscale</text>
-      <text x="340" y="420" fill="#a0a8b1" font-size="14">Self-hosted services</text>
+      <text x="340" y="400" fill="#f0f6fc" font-size="24" font-weight="700">Proxmox · Docker</text>
+      <text x="340" y="420" fill="#a0a8b1" font-size="14">lovaliveandstantripleS</text>
     </g>
   </g>
 
